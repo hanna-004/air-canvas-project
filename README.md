@@ -36,6 +36,8 @@ air-canvas-project/
 │── requirements.txt     # All required Python libraries
 │── README.md            # Project documentation
 
+## 📸 Screenshot
+![Air Canvas Screenshot](images/screenshot.png)
 
 
 
