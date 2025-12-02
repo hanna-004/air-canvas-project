@@ -29,3 +29,9 @@ It tracks the index finger and creates real-time drawings on a virtual canvas �
 ---
 
 ## 📁 Project Structure
+
+air-canvas-project/
+│── air_canvas.py # Main program file
+│── requirements.txt # All required Python libraries
+│── README.md # Project documentation
+
