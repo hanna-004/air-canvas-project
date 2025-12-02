@@ -35,9 +35,23 @@ air-canvas-project/
 │── air_canvas.py        # Main program file
 │── requirements.txt     # All required Python libraries
 │── README.md            # Project documentation
+```
 
-## 📸 Screenshot
-![Air Canvas Screenshot](images/screenshot.png)
 
+##  Output Screenshot
+
+![Air Canvas Output](output.png)
+
+
+##  Installation
+
+```bash
+pip install -r requirements.txt
+
+```
+## Run the Project
+```bash
+python air_canvas.py
+```
 
 
